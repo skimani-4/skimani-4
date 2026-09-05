@@ -1,16 +1,33 @@
-## Hi there 👋
+# Sam Kimani
 
-<!--
-**skimani-4/skimani-4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at the University of Memphis focused on software engineering, full-stack development, and data automation.
 
-Here are some ideas to get you started:
+I build software that turns manual, time-intensive workflows into reliable applications and automated processes. My experience spans Python application development, full-stack mobile development, REST APIs, data processing, testing, and deployment.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Project
+
+### SKINGPT
+Full-stack mobile application for image-based skin analysis, personalized skincare routines, and product recommendations.
+
+**Technologies:** React Native, Expo, Node.js, Express, SQLite, OpenAI API, Stripe
+
+- Built a React Native/Expo mobile frontend with image capture, application state management, personalized results, and free-to-premium user flows.
+- Developed a Node.js/Express backend integrating OpenAI API integration, SQLite persistence, Stripe payments, affiliate tracking, and application analytics.
+- Implemented API-based communication between the mobile client and backend services.
+
+[View SKINGPT Portfolio](https://github.com/skimani-4/SKINGPT-Portfolio)
+
+## Technical Focus
+
+- Software Engineering & Application Development
+- Python & JavaScript
+- Full-Stack Development
+- REST API Integration
+- SQL & Data Processing
+- Testing, Automation & Performance Optimization
+
+## Currently
+
+- B.S. Computer Science — University of Memphis
+- Expected Graduation: May 2027
+- Interested in Software Engineering, Software Development, and Data-focused Engineering opportunities
