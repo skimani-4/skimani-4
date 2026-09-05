@@ -12,7 +12,7 @@ Full-stack mobile application for image-based skin analysis, personalized skinca
 **Technologies:** React Native, Expo, Node.js, Express, SQLite, OpenAI API, Stripe
 
 - Built a React Native/Expo mobile frontend with image capture, application state management, personalized results, and free-to-premium user flows.
-- Developed a Node.js/Express backend integrating OpenAI API integration, SQLite persistence, Stripe payments, affiliate tracking, and application analytics.
+- Developed a Node.js/Express backend integrating OpenAI API, SQLite persistence, Stripe payments, affiliate tracking, and application analytics.
 - Implemented API-based communication between the mobile client and backend services.
 
 [View SKINGPT Portfolio](https://github.com/skimani-4/SKINGPT-Portfolio)
